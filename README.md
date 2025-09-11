@@ -25,9 +25,10 @@ I'm a passionate developer. I love creating innovative solutions and learning ne
 
 ![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-### 🎨 UI/UX & Graphic Design
+### 🎨 UI/UX, Graphic Design & Video Editing
 
-![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white) ![CANVA](https://img.shields.io/badge/-CANVA-00C4CC?style=flat-square&logo=canva&logoColor=white) ![PHOTOSHOP](https://img.shields.io/badge/-PHOTOSHOP-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white)
+![FIGMA](https://img.shields.io/badge/-FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white) ![CANVA](https://img.shields.io/badge/-CANVA-00C4CC?style=flat-square&logo=canva&logoColor=white) ![PHOTOSHOP](https://img.shields.io/badge/-PHOTOSHOP-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![GIMP](https://img.shields.io/badge/-GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white) ![DAVINCI RESOLVE](https://img.shields.io/badge/-DAVINCI_RESOLVE-233A51?style=flat-square&logo=davinciresolve&logoColor=white) ![AFTER EFFECTS](https://img.shields.io/badge/-AFTER_EFFECTS-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white)
+
 
 ### 🧰 Tools & Platforms
 
