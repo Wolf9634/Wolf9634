@@ -6,7 +6,7 @@ I'm a passionate developer. I love creating innovative solutions and learning ne
 
 - 🌱 I'm currently learning Next.js and blockchain
 - 👯 I'm looking to collaborate on web3 and web2 projects
-- 🤔 I'm looking for help with Linux
+- 🤔 I'm looking for help in finding some....
 - 💬 Ask me about web development and designing
 - 📫 How to reach me: mohdsahalparvez1@gmail.com
 - ⚡ Fun fact: I can do anything just make me do that
