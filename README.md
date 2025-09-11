@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Software Engineer Undergraduate. I love creating innovative solutions and learning new technologies.
+I'm a passionate developer. I love creating innovative solutions and learning new technologies.
 
 - 🌱 I'm currently learning Next.js and blockchain
 - 👯 I'm looking to collaborate on web3 and web2 projects
